@@ -69,25 +69,8 @@ The application should now be running:
 - Frontend: http://localhost:5173
 - Backend: http://localhost:3000
 
-## Features
-
-- React Query for efficient data fetching and caching
-- Express backend for API endpoints
-- Vite for fast development and building
-- Modern React development setup
-
 ## Technologies Used
 
-- React
-- React Query (TanStack Query)
-- Express.js
-- Vite
-- Node.js
-
-## Contributing
-
-Feel free to submit issues and enhancement requests.
-
-## License
-
-This project is licensed under the ISC License.
+- React Query for data fetching and caching
+- Express backend for API endpoint
+- Vite for frontend
