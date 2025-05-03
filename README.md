@@ -24,7 +24,7 @@ The project is divided into two main parts:
 - Node.js (v14 or higher)
 - npm or yarn package manager
 
-## Setup Instructions
+## Instructions
 
 1. Clone the repository:
 
@@ -69,7 +69,7 @@ The application should now be running:
 - Frontend: http://localhost:5173
 - Backend: http://localhost:3000
 
-## Technologies Used
+## Stack
 
 - React Query for data fetching and caching
 - Express backend for API endpoint
